@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dushanbe Online</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia2h1c2gyMDAwIiwiYSI6ImNraWx5b285ZzA3c3Eyc281aHRwMGRhMGEifQ.O7hW0aKkBPr8R5SYGmmAPg</string>
+    <string name="simple_offline_end_progress_success">Карта успешно загружена!</string>
+    <string name="basic_offline_deleted_toast">Карта сохранена!</string>
+
+    <string-array name="event_array">
+        <item>Акция</item>
+        <item>Ярмарка</item>
+        <item>Происшествие</item>
+        <item>Мероприятие</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
